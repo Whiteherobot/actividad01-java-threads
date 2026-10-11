@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Ejecutar (1, 2 y 4 hilos)",
+      "request": "launch",
+      "mainClass": "actividad01.Main",
+      "cwd": "${workspaceFolder}",
+      "vmArgs": "-Xmx2g"
+    }
+  ]
+}
